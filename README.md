@@ -4,6 +4,7 @@ By running this piece of code you can accept all request of LinkedIn
 # Steps 
 - Go to LinkedIn
 - Then go to My Network section
+- Press F12
 - Enter the code which is in main_code.txt (copy from the main_code.txt and paste in the console)
 - Press Enter 
 
